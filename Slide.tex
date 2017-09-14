@@ -1,5 +1,6 @@
 \documentclass[aspectratio=169]{beamer}
-\usetheme{Madrid}%AnnArbor} %{Madrid} %tema do slide. Tem muitos temas existentes... Gosto desse! Se vcs quiserem mais temas, visitem: http://deic.uab.es/~iblanes/beamer_gallery/index_by_theme.html
+\usetheme{AnnArbor} %{Madrid} %tema do slide. Tem muitos temas existentes... Gosto desse! Se vcs quiserem mais temas, visitem: http://deic.uab.es/~iblanes/beamer_gallery/index_by_theme.html
+\usecolortheme{beaver}
 \usepackage[brazil]{babel} %texto
 \usepackage[utf8]{inputenc} %texto
 \usepackage{graphicx} %imagem	
@@ -10,12 +11,19 @@
 \usepackage[abnt-emphasize=bf,alf]{abntex2cite} %citacoes ABNT
 \graphicspath{{./Figuras/}} %Colarimages na pasta "Figuras". Gosto de fazer isso para organizar os arquivos.    		
 
+%---------------------------------------------------------------------------
+	% PRIMEIRA SECAO
+	\section{Centro Federal de Educação Tecnológica de Minas Gerais}
+	\subsection{Curso Técnico em Mecatrônica}
+%---------------------------------------------------------------------------
+
 \begin{document}
 	% EDITAR ESSAS INFORMACOES (INICIO)
-	\title[3ª RAE]{QUALIDADE E REPARO EM PROCESSOS INDUSTRIAIS DE GRANDE ESCALA}
+	\title[3º Relatório de Acompanhamento do Estagiário]{QUALIDADE E REPARO EM PROCESSOS INDUSTRIAIS DE GRANDE ESCALA}
+	\subtitle{Aplicado a SmartPhones}
 	\author[antonioaads@gmail.com]{Antônio Augusto Diniz Sousa}
 	\institute[]{CEFET-MG}
-	\date[2016]{\today}
+	\date[2017]{\today}
 	% EDITAR ESSAS INFORMACOES (FIM)
 	
 	\begin{frame}
@@ -28,13 +36,41 @@
 	
 %---------------------------------------------------------------------------
 	% PRIMEIRA SECAO
-	\section{Imagem}
+	\section{Global Express}
+	\subsection{A empresa}
+%---------------------------------------------------------------------------
+
+	% SLIDE 1 - UMA TABELA	
+	\begin{frame}
+		\frametitle{Tabelas}
+				
+		\begin{table}[H]
+			\centering
+			\caption{Atributos dos arquivos}
+			\begin{tabular}{c|c}
+				\toprule
+				\textbf{Atributo} & \textbf{Significado} \\
+				\midrule
+				Prote\c{c}\~{a}o&Quem tem acesso ao arquivo e de que modo\\
+				\midrule
+				Senha&Necessidade de senha para acesso ao arquivo\\
+				\midrule
+				Criador&ID do criador do arquivo\\
+				\midrule
+				Propriet\'{a}rio&Propriet\'{a}rio atual\\
+				\bottomrule
+			\end{tabular}
+			
+			\label{tab:attI}
+			\footnotesize{Fonte: \citeonline{tanebaun2010}}				
+		\end{table}
+	\end{frame}
 %---------------------------------------------------------------------------
 
 	% SLIDE 1 - APENAS UMA IMAGEM	
 	\begin{frame}
-		\frametitle{Imagem}
-		\framesubtitle{Imagens simples}
+		\frametitle{Global Express}
+		\framesubtitle{A empresa}
 		Imagine a Figura:
 		
 		\begin{figure}
