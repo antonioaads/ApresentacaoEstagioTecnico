@@ -1,0 +1,29 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.6 }
+
+\bibitem[Microsoft 2017]{microsoft}
+\abntrefinfo{Microsoft}{MICROSOFT}{2017}
+{MICROSOFT. 2017. \url{https://www.microsoft.com/pt-br/}.
+Acessado em 20/03/2017.}
+
+\bibitem[Samsung Brasil 2017]{samsung}
+\abntrefinfo{Samsung\ldots}{SAMSUNG\ldots}{2017}
+{SAMSUNG Brasil. 2017.
+  \url{http://www.theregister.co.uk/2011/02/01/arm_holdings_q4_2010_numbers/}.
+Acessado em 20/03/2017.}
+
+\bibitem[Sony Brasil 2017]{sony}
+\abntrefinfo{Sony\ldots}{SONY\ldots}{2017}
+{SONY Brasil. 2017. \url{http://www.sony.com.br/}.
+Acessado em 20/03/2017.}
+
+\bibitem[Tanebaum 2010]{tanebaun2010}
+\abntrefinfo{Tanebaum}{TANEBAUM}{2010}
+{TANEBAUM, A.~S. \textbf{Sistemas Operacionais Modernos}. 3. ed. S\~{a}o Paulo:
+  Pearlson Prentice Hall, 2010. 638~p.}
+
+\end{thebibliography}
