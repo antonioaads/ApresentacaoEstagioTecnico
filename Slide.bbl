@@ -5,6 +5,11 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{v-1.9.6 }
 
+\bibitem[Global Express 2017]{global}
+\abntrefinfo{Global\ldots}{GLOBAL\ldots}{2017}
+{GLOBAL Express. 2017. \url{http://www.globalexpressbh.com.br/}.
+Acessado em 20/03/2017.}
+
 \bibitem[Microsoft 2017]{microsoft}
 \abntrefinfo{Microsoft}{MICROSOFT}{2017}
 {MICROSOFT. 2017. \url{https://www.microsoft.com/pt-br/}.

@@ -4,6 +4,6 @@
 \select@language {brazil}
 \beamer@sectionintoc {2}{Global Express}{3}{0}{2}
 \beamer@subsectionintoc {2}{1}{A empresa}{3}{0}{2}
-\beamer@sectionintoc {3}{Tabelas}{9}{0}{3}
-\beamer@sectionintoc {4}{Listas}{10}{0}{4}
-\beamer@sectionintoc {5}{Refer\^{e}ncias bibliogr\'{a}ficas}{12}{0}{5}
+\beamer@sectionintoc {3}{Tabelas}{11}{0}{3}
+\beamer@sectionintoc {4}{Listas}{12}{0}{4}
+\beamer@sectionintoc {5}{Refer\^{e}ncias bibliogr\'{a}ficas}{14}{0}{5}
