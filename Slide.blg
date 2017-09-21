@@ -13,11 +13,7 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Database file #1: abntex2-options.bib
 Database file #2: Referencias.bib
-I was expecting a `,' or a `}'---line 21 of file Referencias.bib
- : 
- : organization={Nome da conf.},
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "tanebaun2010"
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=20001) to 20 items from 10.
@@ -27,45 +23,45 @@ Reallocated glb_str_end (elt_size=4) to 20 items from 10.
 | Em caso de dúvidas ou problemas com este estilo procure |
 | http://www.abntex.net.br/                               |
 +---------------------------------------------------------+
-You've used 7 entries,
+You've used 6 entries,
             6714 wiz_defined-function locations,
-            1220 strings with 9733 characters,
-and the built_in function-call counts, 5171 in all, are:
-= -- 747
-> -- 16
-< -- 1
-+ -- 112
-- -- 5
-* -- 241
-:= -- 667
-add.period$ -- 21
-call.type$ -- 7
-change.case$ -- 41
-chr.to.int$ -- 9
-cite$ -- 5
-duplicate$ -- 160
-empty$ -- 412
-format.name$ -- 23
-if$ -- 1401
+            1214 strings with 9643 characters,
+and the built_in function-call counts, 4497 in all, are:
+= -- 695
+> -- 0
+< -- 0
++ -- 107
+- -- 0
+* -- 199
+:= -- 575
+add.period$ -- 16
+call.type$ -- 6
+change.case$ -- 34
+chr.to.int$ -- 5
+cite$ -- 4
+duplicate$ -- 118
+empty$ -- 347
+format.name$ -- 0
+if$ -- 1236
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 108
-newline$ -- 32
-num.names$ -- 5
-pop$ -- 142
+missing$ -- 88
+newline$ -- 28
+num.names$ -- 0
+pop$ -- 119
 preamble$ -- 1
-purify$ -- 21
+purify$ -- 18
 quote$ -- 0
-skip$ -- 580
+skip$ -- 545
 stack$ -- 1
-substring$ -- 220
-swap$ -- 62
+substring$ -- 202
+swap$ -- 44
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 30
 warning$ -- 0
-while$ -- 20
+while$ -- 14
 width$ -- 0
-write$ -- 80
-(There was 1 error message)
+write$ -- 64
+(There was 1 warning)

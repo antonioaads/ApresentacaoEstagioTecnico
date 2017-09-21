@@ -9,6 +9,7 @@
 \usepackage{float} %imagem e tabelas
 \usepackage{booktabs} %tabelas	
 \usepackage[abnt-emphasize=bf,alf]{abntex2cite} %citacoes ABNT
+\usepackage{verbatim}
 \graphicspath{{./Figuras/}} %Colarimages na pasta "Figuras". Gosto de fazer isso para organizar os arquivos.    		
 
 %---------------------------------------------------------------------------
@@ -128,13 +129,145 @@
 			\centering
 			\caption{Organograma Global Express}
 			
-			\includegraphics[width=.25\linewidth]{organograma_global.png} 
+			\includegraphics[width=0.5	\linewidth]{organograma_global.png} 
 			
-			\footnotesize{Fonte: \citeonline{global}}
-			\label{logglob}
+			\footnotesize{Fonte: Autor}
+			\label{im1}
 		\end{figure}	
 	\end{frame}
+	
+	% SLIDE 4 - Fluxograma	
+	\begin{frame}
+		\frametitle{Fluxograma}
+		\framesubtitle{Processos entre envio e recebimento do produto}
+		
+		\begin{minipage}[H]{.3\textwidth}
+			\begin{itemize}
+				\item \textit{Cliente};
+				\item \textit{Atendimento/SAC};
+				\item \textit{Translado};
+				\item \textit{\textbf{Laboratório}};
+				\item \textit{Estoque};
+				\item \textit{\textbf{Laboratório}};
+				\item \textit{\textbf{OQC}};
+				\item \textit{SAC};
+				\item \textit{Cliente};
+			\end{itemize}
+		\end{minipage}
+		\hfill
+		\begin{minipage}[H]{.65\textwidth}
+			\begin{figure}
+				\centering
+				\caption{Fluxograma Global Express}
+			
+				\includegraphics[width=0.8	\linewidth]{fluxograma_global.png} 
+			
+				\footnotesize{Fonte: Autor}
+				\label{im1}
+			\end{figure}
+		\end{minipage}
+	\end{frame}
 
+%---------------------------------------------------------------------------
+	% SEGUNDA SECAO
+	\subsection{O estagiário}
+%---------------------------------------------------------------------------
+	% SLIDE 5 - Intodução Estagiário	
+	\begin{frame}
+		\frametitle{O estagiário}
+		\framesubtitle{Como foi o estágio...}
+		
+		\begin{minipage}[H]{.3\textwidth}
+			\begin{itemize}
+				\item \textit{Apresentação da empresa};
+				\begin{itemize}
+					\item \textit{Espaços da empresa}
+					\item \textit{Normas e regras}
+					\item \textit{Segurança}
+					\item \textit{Organização}
+					\item \textit{Processo}
+					\item \textit{Observação (1 mês)}
+				\end{itemize}
+			\end{itemize}
+		\end{minipage}
+		\hfill
+		\begin{minipage}[H]{.3\textwidth}
+			\begin{itemize}
+				\item \textit{OQC};
+				\begin{itemize}
+					\item \textit{Auxílio}
+					\item \textit{Meta}
+					\item \textit{Produção}
+					\item \textit{Trabalho Individual}
+					\item \textit{Cobrança}
+				\end{itemize}
+			\end{itemize}
+		\end{minipage}
+		\hfill
+		\begin{minipage}[H]{.3\textwidth}
+			\begin{itemize}
+				\item \textit{Laboratório};
+				\begin{itemize}
+					\item \textit{Auxílio}
+					\item \textit{Segurança - ESD}
+					\item \textit{Manutenção}
+					\item \textit{Responsabilidade}
+					\item \textit{Trabalho Individual}
+					\item \textit{Cobrança*}
+				\end{itemize}
+			\end{itemize}
+		\end{minipage}
+	\end{frame}
+	
+	%---------------------------------------------------------------------------
+	% SEGUNDA SECAO
+	\section{SAMSUNG}
+	\subsection{Monitoria}
+%---------------------------------------------------------------------------
+	% SLIDE 5 - Intodução Estagiário	
+	\begin{frame}
+		\frametitle{SAMSUNG}
+		\framesubtitle{Análise, Inspeção e Controle}
+		
+		\begin{minipage}[H]{.4\textwidth}
+			\begin{itemize}
+				\item \textit{GSPN};
+				\begin{itemize}
+					\item \textit{Controle}
+					\item \textit{Qualidade}
+					\item \textit{Serviços}
+					\item \textit{Treinamentos}
+				\end{itemize}
+			\end{itemize}
+		\end{minipage}
+		\hfill
+		\begin{minipage}[H]{.4\textwidth}
+			\begin{itemize}
+				\item \textit{Visitas Técnicas};
+				\begin{itemize}
+					\item \textit{Monitoramento}
+					\item \textit{Pesquisa (motivos)}
+					\item \textit{Inspeção}
+					\item \textit{Análise de processo}
+					\item \textit{Acompanhamento}
+				\end{itemize}
+			\end{itemize}
+		\end{minipage}
+		\hfill
+		\begin{minipage}[H]{.4\textwidth}
+			\begin{itemize}
+				\item \textit{Fábrica};
+				\begin{itemize}
+					\item \textit{Recolhimento}
+					\item \textit{Documentação}
+					\item \textit{Dicas de Reparo}
+					\item \textit{Defeitos de fabricação}
+				\end{itemize}
+			\end{itemize}
+		\end{minipage}
+	\end{frame}
+	
+	\begin{comment}
 	% SLIDE 1 - UMA TABELA	
 	\begin{frame}
 		\frametitle{Tabelas}
@@ -303,10 +436,13 @@
 		\end{itemize}
 	\end{frame}
 	
+\end{comment}
+	
 %---------------------------------------------------------------------------
 	%SECAO DE REFERENCIAS
 	\section{Refer\^{e}ncias bibliogr\'{a}ficas}
 %---------------------------------------------------------------------------
+\begin{comment}	
 	% SLIDE 8 - REFERENCIAS
 	\begin{frame}
 		\frametitle{Refer\^{e}ncias bibliogr\'{a}ficas indiretas}
@@ -320,7 +456,7 @@
 		\textbackslash cite[p. \~{}45]\{labelDaReferencia\} \\
 		\textbf{Resultado}: "os computadores..." \cite[p.~45]{tanebaun2010} 
 	\end{frame}	
-
+\end{comment}
 	% SLIDE 10 - REFERENCIAS
 	\begin{frame}
 		%[allowframebreaks]

@@ -19,37 +19,22 @@
 \headcommand {\beamer@framepages {5}{5}}
 \headcommand {\slideentry {2}{1}{4}{6/6}{A empresa}{0}}
 \headcommand {\beamer@framepages {6}{6}}
-\headcommand {\slideentry {2}{1}{5}{7/7}{A empresa}{0}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{7}{O estagi\IeC {\'a}rio}}\headcommand {\beamer@subsectionpages {3}{6}}
+\headcommand {\slideentry {2}{2}{1}{7/7}{O estagi\IeC {\'a}rio}{0}}
 \headcommand {\beamer@framepages {7}{7}}
-\headcommand {\slideentry {2}{1}{6}{8/8}{A empresa}{0}}
+\headcommand {\sectionentry {3}{SAMSUNG}{8}{SAMSUNG}{0}}
+\headcommand {\beamer@sectionpages {3}{7}}
+\headcommand {\beamer@subsectionpages {7}{7}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{8}{Monitoria}}\headcommand {\beamer@subsectionpages {8}{7}}
+\headcommand {\slideentry {3}{1}{1}{8/8}{Monitoria}{0}}
 \headcommand {\beamer@framepages {8}{8}}
-\headcommand {\slideentry {2}{1}{7}{9/9}{A empresa}{0}}
+\headcommand {\sectionentry {4}{Refer\^{e}ncias bibliogr\'{a}ficas}{9}{Refer\^{e}ncias bibliogr\'{a}ficas}{0}}
+\headcommand {\beamer@sectionpages {8}{8}}
+\headcommand {\beamer@subsectionpages {8}{8}}
+\headcommand {\slideentry {4}{0}{1}{9/9}{}{0}}
 \headcommand {\beamer@framepages {9}{9}}
-\headcommand {\slideentry {2}{1}{8}{10/10}{A empresa}{0}}
-\headcommand {\beamer@framepages {10}{10}}
-\headcommand {\sectionentry {3}{Tabelas}{11}{Tabelas}{0}}
-\headcommand {\beamer@sectionpages {3}{10}}
-\headcommand {\beamer@subsectionpages {3}{10}}
-\headcommand {\slideentry {3}{0}{1}{11/11}{}{0}}
-\headcommand {\beamer@framepages {11}{11}}
-\headcommand {\sectionentry {4}{Listas}{12}{Listas}{0}}
-\headcommand {\beamer@sectionpages {11}{11}}
-\headcommand {\beamer@subsectionpages {11}{11}}
-\headcommand {\slideentry {4}{0}{1}{12/12}{}{0}}
-\headcommand {\beamer@framepages {12}{12}}
-\headcommand {\slideentry {4}{0}{2}{13/13}{}{0}}
-\headcommand {\beamer@framepages {13}{13}}
-\headcommand {\sectionentry {5}{Refer\^{e}ncias bibliogr\'{a}ficas}{14}{Refer\^{e}ncias bibliogr\'{a}ficas}{0}}
-\headcommand {\beamer@sectionpages {12}{13}}
-\headcommand {\beamer@subsectionpages {12}{13}}
-\headcommand {\slideentry {5}{0}{1}{14/14}{}{0}}
-\headcommand {\beamer@framepages {14}{14}}
-\headcommand {\slideentry {5}{0}{2}{15/15}{}{0}}
-\headcommand {\beamer@framepages {15}{15}}
-\headcommand {\slideentry {5}{0}{3}{16/16}{}{0}}
-\headcommand {\beamer@framepages {16}{16}}
-\headcommand {\beamer@partpages {1}{16}}
-\headcommand {\beamer@subsectionpages {14}{16}}
-\headcommand {\beamer@sectionpages {14}{16}}
-\headcommand {\beamer@documentpages {16}}
-\headcommand {\def \inserttotalframenumber {16}}
+\headcommand {\beamer@partpages {1}{9}}
+\headcommand {\beamer@subsectionpages {9}{9}}
+\headcommand {\beamer@sectionpages {9}{9}}
+\headcommand {\beamer@documentpages {9}}
+\headcommand {\def \inserttotalframenumber {9}}
