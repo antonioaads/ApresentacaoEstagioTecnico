@@ -1,6 +1,5 @@
 \beamer@sectionintoc {1}{Centro Federal de Educa\IeC {\c c}\IeC {\~a}o Tecnol\IeC {\'o}gica de Minas Gerais}{1}{0}{1}
 \beamer@subsectionintoc {1}{1}{Curso T\IeC {\'e}cnico em Mecatr\IeC {\^o}nica}{1}{0}{1}
-\beamer@endinputifotherversion {3.36pt}
 \select@language {brazil}
 \beamer@sectionintoc {2}{Global Express}{3}{0}{2}
 \beamer@subsectionintoc {2}{1}{A empresa}{3}{0}{2}
